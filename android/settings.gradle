@@ -1,0 +1,3 @@
+rootProject.name = 'reeltime_coaching_4377'
+
+include ':app'
